@@ -5,7 +5,7 @@ tags: "Chrome-DevTool-Tips"
 ---
 Chrome DevTools:  快速编辑多行
 
-![使用Google调试工具添加Class](/images/post-img/Chrome-DevTools-Tips/tip8.gif)
+![使用Google调试工具添加Class](/images/tip8.gif)
 
 - 在sources面板打开一个文件,然后按快捷键 **Ctrl+(点击)**，逐一选择
 - 如果想取消选择，快捷键为 **Ctrl+U**

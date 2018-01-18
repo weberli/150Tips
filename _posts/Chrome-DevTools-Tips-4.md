@@ -5,7 +5,7 @@ tags: "Chrome-DevTool-Tips"
 ---
 Chrome DevTools: 使用Google调试工具查看网络时间线
 
-![使用Google调试工具添加Class](/images/post-img/Chrome-DevTools-Tips/tip4.gif)
+![使用Google调试工具添加Class](/images/tip4.gif)
 
 - 打开调试面板Network板块
 - 当网络面板打开时，DevTools默认记录所有网络活动。按F5刷新则重新记录

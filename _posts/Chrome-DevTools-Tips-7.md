@@ -5,7 +5,7 @@ tags: "Chrome-DevTool-Tips"
 ---
 Chrome DevTools:  快速定位代码行数
 
-![使用Google调试工具添加Class](/images/post-img/Chrome-DevTools-Tips/tip7.gif)
+![使用Google调试工具添加Class](/images/tip7.gif)
 
 - 在sources面板打开一个文件,然后按快捷键**Ctrl+O**
 - 输入 :2:10 (:linenumber:columnnumber)

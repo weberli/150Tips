@@ -5,7 +5,7 @@ tags: "Chrome-DevTool-Tips"
 ---
 Chrome DevTools: 使用CSS Class快速搜索对应Dom节点
 
-![使用Google调试工具添加Class](/images/post-img/Chrome-DevTools-Tips/tip5.gif)
+![使用Google调试工具添加Class](/images/tip5.gif)
 
 - 打开调试面板Elements
 - 按 *** Cmd + F *** 输入要搜索的Class即可

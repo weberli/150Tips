@@ -5,7 +5,7 @@ tags: "Chrome-DevTool-Tips"
 ---
 Chrome DevTools:  快速复制Network面板文件内容
 
-![使用Google调试工具添加Class](/images/post-img/Chrome-DevTools-Tips/tip9.gif)
+![使用Google调试工具添加Class](/images/tip9.gif)
 
 - 在Network面板选择文件,然后点击邮件，从 Copy 项目中选择 Copy response
 

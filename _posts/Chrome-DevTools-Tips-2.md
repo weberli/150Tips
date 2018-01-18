@@ -6,7 +6,7 @@ tags: "Chrome-DevTool-Tips"
 
 Chrome DevTools: 使用Google调试工具添加Class
 
-![使用Google调试工具添加Class](/images/post-img/Chrome-DevTools-Tips/tip2.gif)
+![使用Google调试工具添加Class](/images/tip2.gif)
 
 - 打开调试面板
 - 调试工具右侧的styles面板，点击“.cls”按钮在输入框中输入需要添加的class

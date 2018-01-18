@@ -5,7 +5,7 @@ tags: "Chrome-DevTool-Tips"
 ---
 Chrome DevTools: 使用CSS Class快速搜索对应Dom节点
 
-![使用Google调试工具添加Class](/images/post-img/Chrome-DevTools-Tips/tip6.gif)
+![使用Google调试工具添加Class](/images/tip6.gif)
 
 - 选中img元素，右键打开Sources面板
 - 在对应图片上右键，选中“Copy image as data URI”
